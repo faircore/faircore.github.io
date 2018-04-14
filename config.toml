@@ -1,0 +1,10 @@
+baseURL = "http://faircore.org/"
+languageCode = "en-us"
+title = "FairCore"
+theme = "pickles"
+publishDir = "docs"
+
+[params]
+  twitter = "faircore"
+  github = "faircore"
+ 

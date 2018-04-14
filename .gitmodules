@@ -1,0 +1,3 @@
+[submodule "themes/pickles"]
+	path = themes/pickles
+	url = https://github.com/sdeleuze/hugo_theme_pickles.git
