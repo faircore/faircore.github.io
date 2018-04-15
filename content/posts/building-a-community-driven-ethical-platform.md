@@ -7,7 +7,7 @@ authorLink: "https://twitter.com/sdeleuze"
 
 I think it is after seeing Idalin Bobé [TechActivism talk at MiXiT conference](https://mixitconf.org/2016/idalin-bobe-21st-century-activists-need-21st-century-skill-sets), 3 years ago, that the various pieces of the puzzle needed for this project began to fall into place in my mind.
 Today, I would like to announce the upcoming launch of a project called FairCore. It will be a community-driven platform intended to promote ethical services via a collaborative review process.
-Certifications like [Organic](https://en.wikipedia.org/wiki/Organic_certification) or [Fairtrade](https://en.wikipedia.org/wiki/Fair_trade) are more and more used for eating food that don't hurt you, so why not doing the same thing with FairCore applied to websites and applications.
+Certifications like [Organic](https://en.wikipedia.org/wiki/Organic_certification) or [Fairtrade](https://en.wikipedia.org/wiki/Fair_trade) are more and more used for eating food that doesn't hurt you, so why not doing the same thing with FairCore applied to websites and applications.
 
 My sources of inspiration for this upcoming platform are:
  - [TripAdvisor](https://www.tripadvisor.com) for the community-driven review process
