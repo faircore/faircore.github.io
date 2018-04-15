@@ -7,7 +7,7 @@ authorLink: "https://twitter.com/sdeleuze"
 
 I think it is after seeing Idalin Bobé [TechActivism talk at MiXiT conference](https://mixitconf.org/2016/idalin-bobe-21st-century-activists-need-21st-century-skill-sets), 3 years ago, that the various pieces of the puzzle needed for this project began to fall into place in my mind.
 Today, I would like to announce the upcoming launch of a project called FairCore. It will be a community-driven platform intended to promote ethical services via a collaborative review process.
-Certifications like [Organic](https://en.wikipedia.org/wiki/Organic_certification) or [Fairtrade](https://en.wikipedia.org/wiki/Fair_trade) are more and more used for eating food that don't hurts you, so why not doing the same thing with FairCore applied to websites and applications.
+Certifications like [Organic](https://en.wikipedia.org/wiki/Organic_certification) or [Fairtrade](https://en.wikipedia.org/wiki/Fair_trade) are more and more used for eating food that don't hurt you, so why not do the same thing with FairCore applied to websites and applications.
 
 My sources of inspiration for this upcoming platform are:
  - [TripAdvisor](https://www.tripadvisor.com) for the community-driven review process
@@ -15,11 +15,11 @@ My sources of inspiration for this upcoming platform are:
  - The [Open Food Facts](https://openfoodfacts.org) collaborative, free and open database
  - [Yuka](https://yuka.io/) for the gaming-like experience and the ease of use (green, orange, red score with optional details)
 
-The goal is to provide an easy way for users to choose their ethical services, but also to highlight companies and 
+The goal is to provide an easy way for users to choose their ethical services, but also to highlight companies and
 organizations that respect you as a human, by protecting your data, avoid leveraging cognitive biases to hijack your
 mind, use open and predictable algorithms, and try to minimize their environmental impact.
 
-FairCore goal is also to share existing initiative like [Pivacy Exodus](https://exodus-privacy.eu.org/) and provide guidelines about how to design ethical services with privacy in mind from the beginning and respect our fondamental rights like:
+FairCore goal is also to share existing initiative like [Privacy Exodus](https://exodus-privacy.eu.org/) and provide guidelines about how to design ethical services with privacy in mind from the beginning and respect our fundamental rights like:
  - Right to disconnection
  - Right to be forgotten
  - Right not to be the product when paying for a service
