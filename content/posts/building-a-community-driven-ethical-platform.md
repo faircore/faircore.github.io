@@ -19,7 +19,7 @@ The goal is to provide an easy way for users to choose their ethical services, b
 organizations that respect you as a human, by protecting your data, avoiding leveraging cognitive biases to hijack your
 mind, use open and predictable algorithms, and try to minimize their environmental impact.
 
-FairCore goal is also to share existing initiatives like [Pivacy Exodus](https://exodus-privacy.eu.org/) and provide guidelines about how to design ethical services with privacy in mind from the beginning and respect our fondamental rights like:
+FairCore goal is also to share existing initiatives like [Privacy Exodus](https://exodus-privacy.eu.org/) and provide guidelines about how to design ethical services with privacy in mind from the beginning and respect our fundamental rights like:
  - Right to disconnection
  - Right to be forgotten
  - Right not to be the product when paying for a service
