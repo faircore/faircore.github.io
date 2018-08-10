@@ -2,8 +2,5 @@ baseURL = "http://faircore.org/"
 languageCode = "en-us"
 title = "FairCore"
 publishDir = "docs"
-
-[params]
-  twitter = "faircore"
-  github = "faircore"
+theme = "hugo-paper"
  
