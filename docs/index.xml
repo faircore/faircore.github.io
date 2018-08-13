@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FairCore</title>
+    <link>http://faircore.org/</link>
+    <description>Recent content on FairCore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Apr 2018 12:19:27 +0200</lastBuildDate>
+    
+	<atom:link href="http://faircore.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building a community-driven ethical platform</title>
+      <link>http://faircore.org/posts/building-a-community-driven-ethical-platform/</link>
+      <pubDate>Sat, 14 Apr 2018 12:19:27 +0200</pubDate>
+      
+      <guid>http://faircore.org/posts/building-a-community-driven-ethical-platform/</guid>
+      <description>I think it is after seeing Idalin Bobé TechActivism talk at MiXiT conference, 3 years ago, that the various pieces of the puzzle needed for this project began to fall into place in my mind. Today, I would like to announce the upcoming launch of a project called FairCore. It will be a community-driven platform intended to promote ethical services via a collaborative review process. Certifications like Organic or Fairtrade are more and more used for eating food that doesn&amp;rsquo;t hurt you, so why not doing the same thing with FairCore applied to websites and applications.</description>
+    </item>
+    
+  </channel>
+</rss>
